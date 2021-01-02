@@ -1,0 +1,7 @@
+name: Add checkout commands
+on: pull_request
+
+jobs:
+  comment:
+    name: Add checkout commands
+    runs-on: ubuntu-latest
